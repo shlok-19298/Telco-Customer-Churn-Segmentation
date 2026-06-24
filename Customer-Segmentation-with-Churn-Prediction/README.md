@@ -1,4 +1,4 @@
-# Customer Segmentation with Churn Prediction
+# Telco Customer Churn Segmentation
 
 ## Overview
 
